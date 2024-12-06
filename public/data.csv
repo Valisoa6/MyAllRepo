@@ -1,0 +1,394 @@
+N°,Id,Proprietaire,Article,Fokontany,Adresse,Surface,Niveau(x),N°equipe,Nom equipe
+3,'20230310095721149703401,MBAHE Remiha,,Ankofika,,0,0,1,Faneva sy Rico
+24,'20230314161814003503401,,,Ankofika,,0,1,1,Faneva sy Rico
+36,'20230315105445644203401,BEBIARISOA Marie Clarisse,,Ankofika,,0,1,1,Faneva sy Rico
+37,'20230315115320497303401,RABE Margeritte,,Ankofika,IVF4,0,1,1,Faneva sy Rico
+41,'20230315142056471703401,RAKOTOARISON Armand,,Ankofika,IVF1 ,0,1,1,Faneva sy Rico
+44,'20230316100128808703401,,,Ankofika,,0,1,1,Faneva sy Rico
+76,'20230317170049107603401,ESPA espa,,Ankofika,espa,0,1,1,Faneva sy Rico
+84,'20230319165644772303401,HANITTRA ,,Ankofika,,0,1,1,Faneva sy Rico
+91,'20230320114737034803401,,,Ankofika,,0,1,1,Faneva sy Rico
+124,'20230323085848584103401,,,Ankofika,,0,1,1,Faneva sy Rico
+128,'20230323094725869503401,KAFAH ,,Ankofika,,0,1,1,Faneva sy Rico
+152,'20230323113739317503401,RANDRIAHARIMANGA Herinjaka,,Ankofika,,0,2,1,Faneva sy Rico
+324,'20230414084404458503401,,,Ankofika,,0,1,1,Faneva sy Rico
+349,'20230418112458995303401,BAPTISTE BIBLIKA ,,Alatsinainy Fonenantsoa,,0,1,1,Faneva sy Rico
+352,'20230420073013897703401,TSA AVELANDREO ,,Maroparasy,,0,2,1,Faneva sy Rico
+373,'20230421103520805203401,ECOLE STE BERTHE ,,Tsaranoro,,0,1,1,Faneva sy Rico
+374,'20230421103719471103401,ECOLE STE BERTHE ,,Tsaranoro,,0,1,1,Faneva sy Rico
+375,'20230421111206505803401,ÉGLISE CATHOLIQUE ,,Tsaranoro,,0,1,1,Faneva sy Rico
+379,'20230421122903241503401,RALAIKOA jaimse Rodrigue,,Tsaranoro,,0,2,1,Faneva sy Rico
+388,'20230424160443963603401,,,Ankofika,,0,2,1,Faneva sy Rico
+393,'20230520135215544403421,,,Bemahalanja,,0,1,1,Emilson & Nambinina
+1,'20230310080831123603402,,,Ankofika,,0,3,2,Haingo sy Ismael
+2,'20230310090835927203402,,,Ankofika,,0,3,2,Haingo sy Ismael
+4,'20230310095753953803402,RAHAJANDRAIBE cyriaque,,Ankofika,,0,2,2,Haingo sy Ismael
+7,'20230310155448580903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+8,'20230310163706350303402,MIHAJA Emilie ,,Ankofika,,0,3,2,Haingo sy Ismael
+9,'20230311082805880403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+15,'2023031310130103402,RANDRIANANDRASANA  alexandre,,Ankofika,,0,3,2,Haingo sy Ismael
+18,'2023031312483703402,,,Ankofika,,0,3,2,Haingo sy Ismael
+21,'20230314154159677803402,,,Ankofika,,0,3,2,Haingo sy Ismael
+22,'20230314160424063403402,RALAITSILANIHASY MAXIME ESPERANTO  ,,Ankofika,,0,3,2,Haingo sy Ismael
+25,'20230314174639189303402,,,Ankofika,,0,2,2,Haingo sy Ismael
+26,'20230314181629524103402,CLAUDINE  ,,Ankofika,,0,2,2,Haingo sy Ismael
+27,'20230315092947537003402,,,Ankofika,,0,2,2,Haingo sy Ismael
+28,'20230315094958467803402,,,Ankofika,,0,2,2,Haingo sy Ismael
+29,'20230315095343913303402,,,Ankofika,,0,2,2,Haingo sy Ismael
+31,'20230315103932907403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+32,'20230315104012533903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+33,'20230315104223649003402,,,Ankofika,,0,2,2,Haingo sy Ismael
+34,'20230315104715038803402,,,Ankofika,,0,2,2,Haingo sy Ismael
+35,'20230315104804327703402,,,Ankofika,,0,2,2,Haingo sy Ismael
+39,'20230315131130272603402,,,Ankofika,,0,2,2,Haingo sy Ismael
+40,'20230315131253680803402,,,Ankofika,,0,2,2,Haingo sy Ismael
+43,'20230316094341348903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+45,'20230316102413406503402,,,Ankofika,,0,2,2,Haingo sy Ismael
+47,'20230316113227856903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+48,'20230316120855585003402,,,Ankofika,,0,2,2,Haingo sy Ismael
+49,'20230316122318827103402,,,Ankofika,,0,2,2,Haingo sy Ismael
+50,'20230316122844735903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+51,'20230316123609782903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+52,'20230316125531531503402,,,Ankofika,,0,2,2,Haingo sy Ismael
+53,'20230316132547125603402,RAMBOANGINIRINA JEANNE PULCHERIE ,,Ankofika,,0,2,2,Haingo sy Ismael
+57,'20230316133758943303402,,,Ankofika,,0,2,2,Haingo sy Ismael
+58,'20230316135717847903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+59,'20230316213503409503402,,,Ankofika,,0,2,2,Haingo sy Ismael
+60,'20230316213642569903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+61,'20230316213843865603402,,,Ankofika,,0,2,2,Haingo sy Ismael
+62,'20230316213933756303402,,,Ankofika,,0,2,2,Haingo sy Ismael
+65,'20230317095404697003402,HAJARIVO JEAN BATISTE ,,Ankofika,,0,3,2,Haingo sy Ismael
+66,'20230317095804175403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+67,'20230317095955249203402,,,Ankofika,,0,2,2,Haingo sy Ismael
+68,'20230317100103906003402,,,Ankofika,,0,2,2,Haingo sy Ismael
+69,'20230317101024350103402,RAHARIVELO MARIE CLAIRE  ,,Ankofika,,0,3,2,Haingo sy Ismael
+70,'20230317110035516903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+71,'20230317110053243803402,,,Ankofika,,0,2,2,Haingo sy Ismael
+72,'20230317110318520603402,,,Ankofika,,0,2,2,Haingo sy Ismael
+73,'20230317131754962803402,ODILON  ,,Ankofika,,0,3,2,Haingo sy Ismael
+74,'20230317134354021103402,,,Ankofika,,0,2,2,Haingo sy Ismael
+77,'20230318080803544403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+78,'20230318080835978903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+79,'20230318081235895403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+80,'20230318081259788403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+81,'20230318081638497403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+82,'20230318090510792403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+83,'20230318093146208603402,RAJAOFETRA SIMON PIERRE  ,4456,Ankofika,,0,3,2,Haingo sy Ismael
+85,'20230320093452231603402,,,Ankofika,,0,2,2,Haingo sy Ismael
+86,'20230320093626193003402,,,Ankofika,,0,2,2,Haingo sy Ismael
+87,'20230320093722830303402,,,Ankofika,,0,2,2,Haingo sy Ismael
+92,'20230320115206045903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+93,'20230320120306340703402,,,Ankofika,,0,2,2,Haingo sy Ismael
+95,'20230320121953121203402,,,Ankofika,,0,2,2,Haingo sy Ismael
+100,'20230321083754612403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+101,'20230321090130198803402,,,Ankofika,,0,2,2,Haingo sy Ismael
+105,'20230321105805811703402,,,Ankofika,,0,3,2,Haingo sy Ismael
+106,'20230321110207492703402,,,Ankofika,,0,2,2,Haingo sy Ismael
+107,'20230321110303020403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+114,'20230322012430031603402,,,Ankofika,,0,3,2,Haingo sy Ismael
+115,'20230322012758171003402,HANTAMALALA CLAIRETTE  ,,Ankofika,,0,2,2,Haingo sy Ismael
+122,'20230323010945558003402,RAZAFY ,,Ankofika,,0,3,2,Haingo sy Ismael
+123,'20230323014722428403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+155,'20230324035911023103402,,,Ankofika,,0,2,2,Haingo sy Ismael
+156,'20230324035925561603402,,,Ankofika,,0,2,2,Haingo sy Ismael
+157,'20230324035939782703402,,,Ankofika,,0,2,2,Haingo sy Ismael
+158,'20230324035953140303402,,,Ankofika,,0,2,2,Haingo sy Ismael
+159,'20230324040005179003402,,,Ankofika,,0,2,2,Haingo sy Ismael
+160,'20230324040025722003402,,,Ankofika,,0,2,2,Haingo sy Ismael
+161,'20230324040038018703402,,,Ankofika,,0,2,2,Haingo sy Ismael
+162,'20230324040050084403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+163,'20230324040102646003402,,,Ankofika,,0,2,2,Haingo sy Ismael
+164,'20230324040113492103402,,,Ankofika,,0,2,2,Haingo sy Ismael
+165,'20230324040123115403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+166,'20230324040132347903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+167,'20230324040143141603402,,,Ankofika,,0,2,2,Haingo sy Ismael
+168,'20230324040153579803402,,,Ankofika,,0,2,2,Haingo sy Ismael
+169,'20230324040203535603402,,,Ankofika,,0,2,2,Haingo sy Ismael
+170,'20230324040213054503402,,,Ankofika,,0,2,2,Haingo sy Ismael
+171,'20230324040225861103402,,,Ankofika,,0,2,2,Haingo sy Ismael
+182,'20230327040844445003402,,,Ankofika,,0,2,2,Haingo sy Ismael
+183,'20230327044914566003402,,,Ankofika,,0,2,2,Haingo sy Ismael
+184,'20230327045011721603402,,,Ankofika,,0,2,2,Haingo sy Ismael
+185,'20230327045124566403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+186,'20230327062412630403402,,,Ankofika,,0,2,2,Haingo sy Ismael
+197,'20230328023135160703402,,,Ankofika,,0,2,2,Haingo sy Ismael
+198,'20230328025659247103402,,,Ankofika,,0,2,2,Haingo sy Ismael
+199,'20230328025751793703402,,,Ankofika,,0,2,2,Haingo sy Ismael
+200,'20230328030935073003402,,,Ankofika,,0,2,2,Haingo sy Ismael
+201,'20230328031220203903402,,,Ankofika,,0,2,2,Haingo sy Ismael
+206,'20230330021344709503402,JIRAMA ,,Ankofika,,0,2,2,Haingo sy Ismael
+207,'20230330022354682203402,,,Ankofika,,0,2,2,Haingo sy Ismael
+208,'20230330022941430303402,,,Ankofika,,0,2,2,Haingo sy Ismael
+209,'20230330025833451203402,,,Ankofika,,0,2,2,Haingo sy Ismael
+210,'20230330035420526003402,,,Ankofika,,0,3,2,Haingo sy Ismael
+211,'20230330075550043803402,,,Ankofika,,0,2,2,Haingo sy Ismael
+212,'20230330075625493703402,,,Ankofika,,0,2,2,Haingo sy Ismael
+213,'20230330075649994603402,,,Ankofika,,0,2,2,Haingo sy Ismael
+214,'20230330082634596803402,,,Ankofika,,0,2,2,Haingo sy Ismael
+217,'20230330091527584303402,RAFANOMEZANTSOA  ,,Ankofika,,0,2,2,Haingo sy Ismael
+250,'20230401014719049403402,MR MAMY ,,Ankofika,,0,2,2,Haingo sy Ismael
+378,'20230421115753067903402,RAZAINDRAFY CATHERINE  ,,Bemahalanja,,0,2,2,Haingo sy Ismael
+380,'20230422074032806003402,RAFANAMBINANTSOA JEAN CRISOSTOME ,,Ambalamahasoa Sud,,0,3,2,Haingo sy Ismael
+381,'20230422075906511203402,RATSIMBAZAFY LAKAMISY ETIENNE  ,,Ambalamahasoa Sud,,0,2,2,Haingo sy Ismael
+382,'20230422080947746503402,,,Ambalamahasoa Sud,,0,3,2,Haingo sy Ismael
+390,'20230518095350337003422,RAZAFIMANDIMBY Marcel,null,Bemahalanja,,0,2,2,Juddy & Mamitiana
+194,'20230327131236924603403,HOLIARISETRA Daniel Bénédicte ,,Ambohitsoa,,0,2,3,Mamitiana sy Mamitiana
+230,'20230331100227937503403,DORÉ ,,Ambohitsoa,,0,2,3,Mamitiana sy Mamitiana
+232,'20230331102145270503403,RINAH ,,Ambohitsoa,,0,2,3,Mamitiana sy Mamitiana
+233,'20230331102232657603403,COMMUNE URBAINE  ,,Ambohitsoa,,0,2,3,Mamitiana sy Mamitiana
+270,'20230404124116396203403,,,Ambohitsoa,,0,2,3,Mamitiana sy Mamitiana
+271,'20230404125616208203403,,,Ambohitsoa,,0,2,3,Mamitiana sy Mamitiana
+278,'20230405105836280803403,,,Ambohitsoa,,0,2,3,Mamitiana sy Mamitiana
+279,'20230405112210835003403,RAZAFIMANDIMBY  Masy josia,,Ambohitsoa,,0,2,3,Mamitiana sy Mamitiana
+280,'20230405112306451103403,TSIMAZAVA  Faustine,,Ambohitsoa,,0,2,3,Mamitiana sy Mamitiana
+282,'20230405161646117803403,,,Ambohitsoa,,0,2,3,Mamitiana sy Mamitiana
+308,'20230412165815090903403,,,Ambohitsoa,IIIH50 A,0,1,3,Mamitiana sy Mamitiana
+309,'20230412171641274603403,,,Ambohitsoa,,0,2,3,Mamitiana sy Mamitiana
+330,'20230415133759007503403,,,Ambohitsoa,TROPIK HOTEL,0,2,3,Mamitiana sy Mamitiana
+331,'20230415134101480703403,,,Ambohitsoa,TROPIK HOTEL,0,2,3,Mamitiana sy Mamitiana
+332,'20230415134244045803403,,,Ambohitsoa,TROPIK HOTEL,0,2,3,Mamitiana sy Mamitiana
+333,'20230415134412604603403,,,Ambohitsoa,TROPIK HOTEL,0,2,3,Mamitiana sy Mamitiana
+334,'20230415134523372703403,,,Ambohitsoa,TROPIK HOTEL,0,2,3,Mamitiana sy Mamitiana
+335,'20230415134707887303403,,,Ambohitsoa,TROPIK HOTEL,0,3,3,Mamitiana sy Mamitiana
+336,'20230415134938390503403,,,Ambohitsoa,TROPIK HOTEL,0,3,3,Mamitiana sy Mamitiana
+337,'20230415135153769103403,CHAN-BAIE-HA ,,Ambohitsoa,TROPIK HOTEL,0,2,3,Mamitiana sy Mamitiana
+340,'20230415143539392703403,RASOLONIRINA Jean Michel,,Ambohitsoa,IIIH49 BIS,0,2,3,Mamitiana sy Mamitiana
+6,'20230310154919116503404,,,Sahamasy,,0,1,4,Emile sy Soava
+23,'20230314160856770303404,PRES RAVAOARISOA ,,Sahamasy,,0,1,4,Emile sy Soava
+94,'20230320120918822303404,RASABOTSY Julienne,,Sahamasy,,0,0,4,Emile sy Soava
+251,'20230401085652155603404,,,Sahamasy,,0,0,4,Emile sy Soava
+258,'20230403205204839203404,RASOANASOLO ,,Sahamasy,,0,1,4,Emile sy Soava
+338,'20230415142550272903404,ANDRIANOMENJANAHARY Jean Eugene,,Sahamasy,,0,1,4,Emile sy Soava
+339,'20230415142602768303404,RANDIANATOANDRO Fidele,,Sahamasy,,0,1,4,Emile sy Soava
+368,'20230421081643440303404,,,Tsaranoro,,0,0,4,Emile sy Soava
+376,'20230421111904870103404,RANDIANANDRASANA Jean Louis,5712,Tsaranoro,,0,1,4,Emile sy Soava
+391,'20230518100444978203424,RAZAFINATOANDRO Herimanana Honoré,null,Bemahalanja,,0,1,4,Christian & Toky
+392,'20230518102947597503424,RANDRIAMITAFOMANGA Jean Crysostome Robert,null,Bemahalanja,,0,2,4,Christian & Toky
+10,'20230311090253195503405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+11,'20230311090329342603405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+12,'20230311102530246903405,HASINA ,,Ezaka,IVG 27B,0,2,5,Rojas sy Setra(safidy)
+20,'20230314153203326403405,MAGLOIRE(RAMAROLAHY JEAN EDMOND) ,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+30,'20230315103504347303405,RAZAFINDRATSARA  Rosine,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+38,'20230315121907546503405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+46,'20230316105241892403405,RAKETSA ,,Ezaka,IVA 6B,0,1,5,Rojas sy Setra(safidy)
+116,'20230322090807130403405,,,Ezaka,,0,0,5,Rojas sy Setra(safidy)
+120,'20230322114408923203405,RAFANJANIRINA Marie Aurélie,,Ezaka,,0,3,5,Rojas sy Setra(safidy)
+121,'20230322120233685103405,,,Ezaka,,0,0,5,Rojas sy Setra(safidy)
+151,'20230323113128273203405,RAZAFINDRASAMBO Herinantenaina,,Ezaka,IVA 6S,0,1,5,Rojas sy Setra(safidy)
+172,'20230324090405770803405,RAZAKAMANANA Bien Aimé,,Ezaka,IVA 4C,0,1,5,Rojas sy Setra(safidy)
+173,'20230324122013874203405,,,Ezaka,,0,0,5,Rojas sy Setra(safidy)
+174,'20230324122343669803405,,,Ezaka,,0,0,5,Rojas sy Setra(safidy)
+175,'20230324125527794703405,,,Ezaka,,0,0,5,Rojas sy Setra(safidy)
+176,'20230324131057410303405,,,Ezaka,,0,0,5,Rojas sy Setra(safidy)
+178,'20230325111924295803405,BERTINE ,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+189,'20230327092714472503405,RALALAONOMENJANAHARY Jeannette,424,Ezaka,IVG 23 C,0,1,5,Rojas sy Setra(safidy)
+191,'20230327104002176403405,RANDRIANAVELO Tahiry Stephan,,Ezaka,,0,0,5,Rojas sy Setra(safidy)
+205,'20230329091717872203405,RAKAMISY Jean Paul,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+215,'20230330090010103103405,,,Ezaka,IVG 12,0,1,5,Rojas sy Setra(safidy)
+216,'20230330090037468403405,,,Ezaka,IVG 12,0,1,5,Rojas sy Setra(safidy)
+218,'20230330092112706803405,,,Ezaka,,0,0,5,Rojas sy Setra(safidy)
+219,'20230330112554190603405,HANTASOA Ralison Nivomboahangy,,Ezaka,IVG 10,0,1,5,Rojas sy Setra(safidy)
+220,'20230330114625792303405,RAHERY Adrien Jean Donne,,Ezaka,IVG 21,0,1,5,Rojas sy Setra(safidy)
+222,'20230331083629818703405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+223,'20230331084151490003405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+224,'20230331085544306803405,VONIMBOAHIRANA  Adeline,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+225,'20230331090828905803405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+229,'20230331094941251803405,,,Ezaka,,0,0,5,Rojas sy Setra(safidy)
+231,'20230331101055977503405,RAMAMPY Marie Zénaïde,,Ezaka,IVG 1,0,1,5,Rojas sy Setra(safidy)
+234,'20230331103019540603405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+235,'20230331104509957503405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+236,'20230331105525945103405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+239,'20230331112855438803405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+240,'20230331114205767203405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+241,'20230331114221100303405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+242,'20230331114517862503405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+243,'20230331115915745503405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+253,'20230403095928491803405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+254,'20230403095938049803405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+255,'20230403102728221603405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+256,'20230403115639974503405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+257,'20230403120206194903405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+260,'20230404091312119103405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+261,'20230404091342724903405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+263,'20230404094159691703405,RATSIRY ,,Ezaka,pres(III G 45),0,1,5,Rojas sy Setra(safidy)
+264,'20230404100656480503405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+267,'20230404105837769703405,,,Ezaka,III G 70A,0,1,5,Rojas sy Setra(safidy)
+272,'20230405082640026103405,,,Ezaka,III G 77,0,1,5,Rojas sy Setra(safidy)
+273,'20230405083322288803405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+274,'20230405084308239603405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+275,'20230405090726599903405,RALAIARIMANANA Emile,,Ezaka,III G 80,0,1,5,Rojas sy Setra(safidy)
+276,'20230405091759292903405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+277,'20230405092252347403405,RALAIARIMANANA Emile,,Ezaka,(III G 79 B) pres,0,0,5,Rojas sy Setra(safidy)
+284,'20230406083338129803405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+286,'20230406085446076203405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+287,'20230406090426927903405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+288,'20230406090632191803405,,,Ezaka,,0,0,5,Rojas sy Setra(safidy)
+289,'20230406090955770403405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+290,'20230406093402795403405,RAHERY ,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+291,'20230406094449944703405,RATSIZAFY Christian Michel Rodin,,Ezaka,III G 2,0,1,5,Rojas sy Setra(safidy)
+300,'20230412141926636503405,ARTHUR ,,Ezaka,III G 3B,0,1,5,Rojas sy Setra(safidy)
+301,'20230412142514919103405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+302,'20230412143041758303405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+303,'20230412150856209403405,,,Ezaka,,0,0,5,Rojas sy Setra(safidy)
+304,'20230412151032146203405,RAFIDY( PROVISEUR LYCÉE) ,,Ezaka,III G 8A,0,2,5,Rojas sy Setra(safidy)
+305,'20230412154238776803405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+306,'20230412155059174803405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+307,'20230412160055653303405,RANOHASA Richard,310,Ezaka,III G 31,0,0,5,Rojas sy Setra(safidy)
+310,'20230413080959296203405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+311,'20230413085443363203405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+312,'20230413085702899303405,RAKOTOSON Gilbert,,Ezaka,IVA 5Kb,0,1,5,Rojas sy Setra(safidy)
+313,'20230413090328629303405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+314,'20230413092156242203405,RAHARINIRINA Jeanne Marie Claire,,Ezaka,IVA 34B,0,3,5,Rojas sy Setra(safidy)
+315,'20230413093003279203405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+317,'20230413111528418403405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+318,'20230413141220438103405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+319,'20230413141838029603405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+320,'20230413144230267303405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+321,'20230413145839029803405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+322,'20230413150413204803405,RANDRIANOMENJAHARY Richard Lucien,,Ezaka,IVA 6V,0,1,5,Rojas sy Setra(safidy)
+323,'20230413155221435203405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+325,'20230414085912307803405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+328,'20230414090447303703405,,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+329,'20230414103951649303405,,,Ezaka,Non Informer,0,1,5,Rojas sy Setra(safidy)
+350,'20230419214413194303405,RAZAMA ,,Ezaka,,0,1,5,Rojas sy Setra(safidy)
+370,'20230421090554895803405,RANDRIANANDRASANA Jacquie,,Bemahalanja,,0,1,5,Rojas sy Setra(safidy)
+371,'20230421095241694503405,RAZANABAO charline,,Bemahalanja,,0,1,5,Rojas sy Setra(safidy)
+5,'20230310102514038803406,RANAIVOSON  François Xavier Andria,2208,Ampanaovantsavony,ID 05,0,3,6,Romuald sy safidy (setra)
+13,'20230311155529534203406,RAZAFIMANDIMBY Bialahy Joseph,,Ampanaovantsavony,IID 31 BIS,0,1,6,Romuald sy safidy (setra)
+14,'2023031310074003406,RANDRIANOMENJANAHARY Clovis,,Ampanaovantsavony,IID 67A,0,2,6,Romuald sy safidy (setra)
+16,'2023031311080903406,RANDRIANONIARISON RODOLPH,,Ampanaovantsavony,IID 64 AMBALAKAJAHA,0,1,6,Romuald sy safidy (setra)
+17,'2023031311360003406,RANDRIANONIARISON  RODOLPH ,2070,Ampanaovantsavony,IID 44,0,2,6,Romuald sy safidy (setra)
+64,'20230317084209707903406,SAHOLINOROSOA ANDRIATAHINA,2057,Ampanaovantsavony,IID 12,0,2,6,Romuald sy safidy (setra)
+75,'20230317165921420903406,RAMANDISOA  JACQUES ,,Ampanaovantsavony,Mitambatra @ lot ID 38,0,1,6,Romuald sy safidy (setra)
+88,'20230320095406663703406,RAZANAKOLONA  EDMOND ,,Ampanaovantsavony,Mitambatra @ Près lot IID 07,0,2,6,Romuald sy safidy (setra)
+89,'20230320102613953903406,RAHERIMANDIMBY JOACHIN PHILIBERT ,1990,Ampanaovantsavony,Près ID 22,0,1,6,Romuald sy safidy (setra)
+96,'20230320160933445903406,RASOAMBOLA  MARIE ,1991,Ampanaovantsavony,trano iray mitamba @ RALAIKOA RAPHAEL,0,1,6,Romuald sy safidy (setra)
+113,'20230321172204625703406,MR RABIRAO ,,Ampanaovantsavony,ID 14C,0,2,6,Romuald sy safidy (setra)
+177,'20230325110705294303406,MARIETTE  AIME,,Ampanaovantsavony,Près Lot IIID 19B AMBALATARETRA,0,2,6,Romuald sy safidy (setra)
+179,'20230325151631785803406,RAJOMALAHY SAMUEL,,Ampanaovantsavony,,0,1,6,Romuald sy safidy (setra)
+203,'20230328223617109003406,RAJOMALAHY  MARCHEL ,,Ampanaovantsavony,Toby ziona Ambihimahasoa FLM Fanantenana Ambalavao,0,1,6,Romuald sy safidy (setra)
+252,'20230401153007590603406,,,Ampanaovantsavony,,0,1,6,Romuald sy safidy (setra)
+259,'20230404090619778103406,,,Ampanaovantsavony,,0,1,6,Romuald sy safidy (setra)
+356,'20230420083158475403406,,,Vatofotsy,,0,1,6,Romuald sy safidy (setra)
+357,'20230420083513028003406,LAZA ,,Vatofotsy,,0,1,6,Romuald sy safidy (setra)
+361,'20230420090147759203406,,,Vatofotsy,,0,1,6,Romuald sy safidy (setra)
+366,'20230420120327894003406,,,Vatofotsy,,0,1,6,Romuald sy safidy (setra)
+367,'20230420121728016603406,,,Vatofotsy,,0,1,6,Romuald sy safidy (setra)
+369,'20230421084236030403406,RAFAKO ,,Bemahalanja,,0,1,6,Romuald sy safidy (setra)
+372,'20230421103154112203406,,,Bemahalanja,,0,1,6,Romuald sy safidy (setra)
+377,'20230421114826271403406,,,Bemahalanja,,0,1,6,Romuald sy safidy (setra)
+383,'20230422082419237003406,,,Ambalamahasoa Sud,,0,1,6,Romuald sy safidy (setra)
+389,'20230428130712534703406,RANDRIANIRINA Yves Georges,,Ambalamahasoa Sud,,0,1,6,Romuald sy safidy (setra)
+104,'20230321093642887803407,,,Antsenanomby,,0,1,7,Nambinina sy Rivo
+298,'20230407113207054603407,,,Antsenanomby,,0,1,7,Nambinina sy Rivo
+359,'20230420085302059303407,RAVETY ,,Maroparasy,,0,1,7,Nambinina sy Rivo
+19,'20230314144029979003408,,,Ambohijafy,,0,2,8,Miadana sy Emilson
+63,'20230317045955020103408,ISPR ,,Ambohijafy,Tsy nanome 'information',0,5,8,Miadana sy Emilson
+90,'20230320114728238903408,MR DODABE ,,Ambohijafy,,0,2,8,Miadana sy Emilson
+102,'20230321091648599503408,MR DODABE  tsy nety nanaovana natao,,Ambohijafy,,0,2,8,Miadana sy Emilson
+103,'20230321091934408503408,MR DODABE tsy nety natao ganadohadina,,Ambohijafy,,0,2,8,Miadana sy Emilson
+108,'20230321111927727503408,RAYKA IANY ,,Ambohijafy,,0,2,8,Miadana sy Emilson
+109,'20230321144457334703408,CLAC AMBOHIJAFY  ,,Ambohijafy,,0,2,8,Miadana sy Emilson
+110,'20230321154020947403408,SECTEUR PUBLIC  ,,Ambohijafy,,0,2,8,Miadana sy Emilson
+111,'20230321154726049903408,SECTEUR PUBLIC  ,,Ambohijafy,,0,2,8,Miadana sy Emilson
+112,'20230321155134823603408,SECTEUR PUBLIQUE  ,,Ambohijafy,,0,1,8,Miadana sy Emilson
+117,'20230322095839895603408,TSY MANDRAY ANAY ,,Ambohijafy,,0,2,8,Miadana sy Emilson
+118,'20230322100114752603408,TSY NANDRAY ANAY ,,Ambohijafy,,0,2,8,Miadana sy Emilson
+119,'20230322110104215503408,RAZAFINDRASOA Hélène ,,Ambohijafy,,0,2,8,Miadana sy Emilson
+153,'20230323150843578103408,TSY NANAIKY HATAO ,,Ambohijafy,,0,2,8,Miadana sy Emilson
+154,'20230323150939090103408,MAISON ENFFONDRÉE  tsy nanaiky hatao,,Ambohijafy,,0,2,8,Miadana sy Emilson
+180,'20230326095311542103408,RAZAFINDRAKOTO ,,Ambohijafy,,0,3,8,Miadana sy Emilson
+181,'20230326105211199803408,PRE RAOBADIA Tsy nanaiky hohadihadima,,Ambohijafy,,0,1,8,Miadana sy Emilson
+187,'20230327073128004603408,TSY NANAIKY HATAO ,1168,Ambohijafy,,0,2,8,Miadana sy Emilson
+192,'20230327115009955403408,TSY NANAIKY FA IANTSO AN I MAIRE ,,Ambohijafy,,0,1,8,Miadana sy Emilson
+193,'20230327115111237203408,TSY NANAIKY Mr José ,,Ambohijafy,,0,2,8,Miadana sy Emilson
+195,'20230327141103943903408,,,Ambohijafy,,0,1,8,Miadana sy Emilson
+196,'20230327152857438003408,,,Ambohijafy,,0,2,8,Miadana sy Emilson
+204,'20230329083823640403408,RAY IANY ,,Ambohijafy,,0,2,8,Miadana sy Emilson
+244,'20230331155057972903408,RANDALARISON  ,,Ambohijafy,,0,1,8,Miadana sy Emilson
+281,'20230405154811899703408,,,Ambohijafy,,0,2,8,Miadana sy Emilson
+190,'20230327094513428403410,,,Androka,,0,1,10,Judith sy Julia
+202,'20230328081644711103410,,,Androka,,0,2,10,Judith sy Julia
+221,'20230330153809545403410,,,Androka,,0,2,10,Judith sy Julia
+226,'20230331093835667003410,TAHIRINIAINA  Davide,,Androka,tsa mety refesina ny tranony masika be le olona,0,3,10,Judith sy Julia
+227,'20230331094233759303410,,,Androka,,0,1,10,Judith sy Julia
+228,'20230331094324056403410,,,Androka,,0,1,10,Judith sy Julia
+351,'20230420072422729703410,RAKOTOMALALA Jean De Dieu,,Maroparasy,,0,1,10,Judith sy Julia
+341,'20230417094534932103411,,,Antsinanamanda,,0,1,11,CUA
+125,'20230323091859144603412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+126,'20230323092825025803412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+127,'20230323093015119403412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+129,'20230323095029774203412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+130,'20230323095203601503412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+131,'20230323095334050803412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+132,'20230323095449894503412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+133,'20230323095621486603412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+134,'20230323095740550803412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+135,'20230323095904083003412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+136,'20230323100042530903412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+137,'20230323100233587503412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+138,'20230323100353685603412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+139,'20230323100534399403412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+140,'20230323100744177803412,ZONGO  ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+141,'20230323101116239003412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+142,'20230323101236488603412,ZONGO  ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+143,'20230323101359787103412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+144,'20230323101615966503412,ZONGO  ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+145,'20230323101828770203412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+146,'20230323102313654903412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+147,'20230323102453226303412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+148,'20230323102650250703412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+149,'20230323102813015103412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+150,'20230323103013434803412,ZONGO ,null,Ambalalova Nord,,0,1,12,Toky sy Rova
+42,'20230315180832794803413,,,Vondrokely,ambarinakoho,0,0,13,Andry sy Jeannot
+54,'20230316132845488803413,,,Vondrokely,tsy anatiny fkt vondrokely,0,1,13,Andry sy Jeannot
+55,'20230316132943897603413,,,Vondrokely,tsy fkt vondrokely,0,1,13,Andry sy Jeannot
+56,'20230316133021078103413,,,Vondrokely,tsy fkt vondrokely,0,1,13,Andry sy Jeannot
+97,'20230321080713292203413,,,Vondrokely,Vondrokely,0,1,13,Andry sy Jeannot
+98,'20230321081457748603413,RAZAFINDRAMOBA aurelie,,Vondrokely,vondrolely,0,1,13,Andry sy Jeannot
+99,'20230321082742323403413,RASOANATENAINA genevevva,3408,Vondrokely,,0,1,13,Andry sy Jeannot
+188,'20230327083936833203413,,,Ambalalova Nord,ambalamahadoa,0,1,13,Andry sy Jeannot
+237,'20230331110323372703413,,,Ambalalova Nord,,0,1,13,Andry sy Jeannot
+238,'20230331110435232603413,,,Ambalalova Nord,,0,1,13,Andry sy Jeannot
+245,'20230331173100475603413,,,Ambalalova Nord,ambohimadera,0,1,13,Andry sy Jeannot
+246,'20230331173500997703413,,,Ambalalova Nord,amboasary,0,1,13,Andry sy Jeannot
+247,'20230331173559449403413,,,Ambalalova Nord,amboasary,0,1,13,Andry sy Jeannot
+248,'20230331173812007703413,,,Ambalalova Nord,ambalalova,0,1,13,Andry sy Jeannot
+249,'20230331173933112703413,,,Ambalalova Nord,ambalalova,0,1,13,Andry sy Jeannot
+262,'20230404091425902003413,RASOLONATENAINA aimee lucie,1657,Ambalalova Nord,mahazava,0,1,13,Andry sy Jeannot
+265,'20230404102055865803413,RAGERMAIN ,,Ambalalova Nord,mahazava,0,1,13,Andry sy Jeannot
+266,'20230404104523328403413,JUVENAL alexandre,,Ambalalova Nord,mahazava,0,1,13,Andry sy Jeannot
+268,'20230404110939444303413,RANDRIANANDRASANA daniel,,Ambalalova Nord,mahazava,0,1,13,Andry sy Jeannot
+269,'20230404113603337503413,RANDRIANASOLO jean pierre,,Ambalalova Nord,mahazava,0,1,13,Andry sy Jeannot
+283,'20230406081921784003413,RAHAOVALAHY jean francois de paul,,Ambalalova Nord,soasranana,0,1,13,Andry sy Jeannot
+285,'20230406084520008603413,RASOARIVELO jullette,,Ambalalova Nord,soaseranana,0,1,13,Andry sy Jeannot
+292,'20230406105659042303413,RACLAUDE  ,,Ambalalova Nord,mahazava,0,1,13,Andry sy Jeannot
+293,'20230406113759633903413,,,Ambalalova Nord,Ambohimadera,0,1,13,Andry sy Jeannot
+294,'20230406114529875503413,,,Ambalalova Nord,Ambohimadera,0,1,13,Andry sy Jeannot
+295,'20230407093649506503413,RAMANGASOAVINA zanmihaja francia rosalie,,Ambalalova Nord,soafiadanana,0,1,13,Andry sy Jeannot
+296,'20230407102050652503413,RAFARAVOLOLONA lucienne odille,,Ambalalova Nord,soafiadanan,0,1,13,Andry sy Jeannot
+297,'20230407112721277103413,RATSIMBAZAFY velokarazy jimmy joseph,,Ambalalova Nord,soafiadanana,0,1,13,Andry sy Jeannot
+299,'20230407113950997503413,RAZARASOA vivianne lucie,,Ambalalova Nord,soafiadanana,0,1,13,Andry sy Jeannot
+316,'20230413110612153703413,,,Ambalalova Nord,,0,1,13,Andry sy Jeannot
+326,'20230414090354781903413,,,Vondrokely,TSY NETY NAMALY FANOTANIANA IO,0,1,13,Andry sy Jeannot
+327,'20230414090434523803413,MPIONONA ,,Vondrokely,TSY NETY NAMALY FANOTANIANA IO,0,1,13,Andry sy Jeannot
+342,'20230418082626853103413,RAVELONANTENAINA herimandimby,,Soamanandray,atsahakely,0,1,13,Andry sy Jeannot
+343,'20230418092822388703413,RAGOVA ,,Soamanandray,atsahakely,0,1,13,Andry sy Jeannot
+345,'20230418095550333403413,RAGELA ,,Soamanandray,atsahakely,0,1,13,Andry sy Jeannot
+346,'20230418103518780903413,RANADY joseph,,Soamanandray,atsahakely,0,1,13,Andry sy Jeannot
+347,'20230418105724468803413,RALAIVAO jean paul,,Soamanandray,atsahakely,0,1,13,Andry sy Jeannot
+348,'20230418110537257303413,RAKOTOZAFY jean richard,,Soamanandray,atsahakely,0,1,13,Andry sy Jeannot
+354,'20230420081836489703413,RIJA ,,Maroparasy,angodongod,0,1,13,Andry sy Jeannot
+355,'20230420082921563803413,RASOLONJATOVO randrianandrasana jean philbert,,Maroparasy,angodogodo,0,1,13,Andry sy Jeannot
+360,'20230420085435202803413,RAKOTOZAFY jean paul,,Maroparasy,m0angodongodo,0,1,13,Andry sy Jeannot
+362,'20230420092409344303413,ANDRIAMAMPIANDRA jules bruno,,Maroparasy,trano raika ihany io,0,1,13,Andry sy Jeannot
+363,'20230420093657257503413,RAKOTONIRINA ernest,,Maroparasy,angodongodo,0,1,13,Andry sy Jeannot
+364,'20230420103717022403413,RATALATA pierre,,Maroparasy,angodongodo,0,1,13,Andry sy Jeannot
+365,'20230420112317679403413,RATSIMBAZAFY II ,,Maroparasy,angodongodo,0,1,13,Andry sy Jeannot
+384,'20230422085040010903413,HERINIAIANA jeannot,,Ambalamahasoa Sud,ambalamahasoa,0,1,13,Andry sy Jeannot
+385,'20230422103231186903413,RAMAMAMPIANDRA herinjanahary jean fidel,,Ambalamahasoa Sud,ambalamahadoa,0,1,13,Andry sy Jeannot
+386,'20230422103627747903413,RAFARALAHY nandrasana jean philbert,,Ambalamahasoa Sud,ambalamahasoa,0,1,13,Andry sy Jeannot
+387,'20230424102658883103413,RANDRIANANDRASANA ,,Tsaranoro,ambalamanakavana,0,1,13,Andry sy Jeannot
+344,'20230418094649083603402,RASOAMALALA MARIE CLAUDE ,,Alatsinainy Fonenantsoa,,0,2,,
+353,'20230420081354004803402,RANDRIRIMAMY ,,Maroparasy,,0,1,,
+358,'20230420084311419203402,RAVOHANGY RASABOTSY  ,,Maroparasy,,0,1,,
